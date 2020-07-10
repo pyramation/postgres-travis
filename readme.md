@@ -1,5 +1,4 @@
-# alpine postgres for travis builds!
+# alpine postgres!
 
-## this is DEPRECATED
-
-use this instead: https://github.com/pyramation/postgres-docker
+* used for travis builds
+* includes make to build postgres extensions
