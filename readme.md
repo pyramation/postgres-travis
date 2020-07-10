@@ -1,3 +1,8 @@
+# DEPRECATED 
+
+USE https://github.com/pyramation/postgres-travis-docker
+
+
 # alpine postgres
 
 * used for travis builds
