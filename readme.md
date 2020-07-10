@@ -1,6 +1,6 @@
 # DEPRECATED 
 
-USE https://github.com/pyramation/postgres-travis-docker
+USE https://github.com/pyramation/postgres-docker
 
 
 # alpine postgres
